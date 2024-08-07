@@ -48,7 +48,7 @@
 
 <br> 
 
-### Siga a Railene Santanao nas redes sociais:
+### Siga a Railene Santana nas redes sociais:
 
 <br> 
 
