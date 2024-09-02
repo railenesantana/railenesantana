@@ -46,7 +46,7 @@
 
 ![Railene Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=railenesantana&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraujocaimi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=railenesantana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br> 
