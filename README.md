@@ -1,9 +1,9 @@
-## Olá, eu sou a Railene! 💥
+## Olá, eu sou a Railene! 🧑🏻‍🚀
 
 <br>
 
   Sou formada em Análise e Desenvolvimento de Sistemas e transicionei de carreira da área da saúde. Comecei meus estudos em tecnologia em 2021, focando em lógica de programação e algoritmos. Encontrei minha paixão na área de QA após fazer o curso do Vinicius Pessoni em Testes.
-  Hoje, trabalho como QA em aplicativos móveis, realizando testes manuais, testando a responsividade, planejando testes e criando casos de teste em Gherkin. Tenho experiência em análise de projetos, storytelling, execução de testes e gerenciamento de bugs
+  Hoje, trabalho como QA em aplicativos móveis, realizando testes manuais, testando a responsividade, planejando testes e criando casos de teste em Gherkin. Tenho experiência em análise de projetos, storytelling, execução de testes e gerenciamento de bugs. Faço parte da comunidade "Cantinho das QAs" onde faço network e troco ideias obre a área de QA. Gosto de participar de workshops e palestras que complementam o meu perfil profissional.
 
 
 <br>
